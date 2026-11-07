@@ -1,0 +1,3 @@
+"set","n_total_file","n_adult_20plus","n_nonpregnant","n_complete_outcome","n_valid_kiq022","n_undiagnosed_analytic"
+"Development (2011 - March 2020)",45462,26280,26001,22649,22649,21804
+"Temporal validation (Aug 2021 - Aug 2023)",11933,7809,7768,5307,5307,5109

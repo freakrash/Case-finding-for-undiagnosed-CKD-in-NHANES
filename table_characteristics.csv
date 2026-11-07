@@ -1,0 +1,25 @@
+Characteristic,"Development, all undiagnosed","Development, C1-unflagged","Validation, all undiagnosed","Validation, C1-unflagged"
+Unweighted n,"21,804","13,059","5,109","3,066"
+"Age, years, mean (SD)",47.7 (16.9),42.5 (15.6),48.4 (17.2),43.4 (16.1)
+"Age ≥60 years, %",27.1,16.0,29.8,19.3
+"Female, %",51.1,51.6,50.8,51.4
+"  Mexican American, %",8.7,9.8,7.1,7.5
+"  Other Hispanic, %",6.7,7.3,9.7,10.3
+"  Non-Hispanic White, %",65.1,64.2,60.4,60.9
+"  Non-Hispanic Black, %",10.7,9.5,10.8,8.7
+"  Non-Hispanic Asian, %",5.6,6.2,6.3,6.8
+"  Other/multiracial, %",3.3,3.2,5.7,5.7
+"Family income-to-poverty ratio, mean (SD)",3.04 (1.66),3.08 (1.67),3.09 (1.63),3.15 (1.63)
+"  <1.0 × FPL, %",14.2,14.3,12.7,12.5
+"College graduate or above, %",31.7,35.2,35.2,39.1
+"No health insurance, %",15.9,18.8,9.3,11.2
+"Smoked ≥100 cigarettes, %",43.3,39.6,37.3,33.3
+"BMI, kg/m², mean (SD)",29.3 (7.0),28.1 (6.5),29.7 (7.2),28.4 (6.6)
+"Waist circumference, cm, mean (SD)",99.8 (16.6),96.2 (15.6),100.3 (16.8),96.8 (15.8)
+"Self-reported diabetes, %",9.9,0.0,10.7,0.0
+"Self-reported hypertension, %",32.0,0.0,29.8,0.0
+"Self-reported cardiovascular disease, %",7.7,2.7,8.3,3.0
+"eGFR <60 mL/min/1.73 m², %",4.6,1.6,4.8,2.2
+"ACR ≥30 mg/g, %",9.2,5.5,10.0,5.7
+"Undiagnosed CKD (outcome), %",12.6,6.9,13.5,7.5
+"Any missing predictor, % (unweighted)",14.1,13.0,16.0,15.4
